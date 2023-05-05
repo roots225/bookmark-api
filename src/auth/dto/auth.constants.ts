@@ -1,1 +1,1 @@
-export const jwtSecret = 'super-secret'
+export const jwtSecret = 'super-secret';
